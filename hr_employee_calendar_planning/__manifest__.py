@@ -5,7 +5,7 @@
     "version": "16.0.1.1.7",
     "category": "Human Resources",
     "website": "https://github.com/OCA/hr",
-    "author": "Tecnativa,Odoo Community Association (OCA)",
+    "author": "Process Control, Tecnativa,Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "installable": True,
     "depends": ["hr"],
